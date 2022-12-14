@@ -1,0 +1,12 @@
+@import "./variables";
+
+body {
+    margin: 0;
+    font-family: $zappar-primary-font-family;
+    background-color: $zappar-background;
+    color: $zappar-primary-color; 
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+  
+  

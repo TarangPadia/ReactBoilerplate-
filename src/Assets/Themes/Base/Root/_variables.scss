@@ -1,0 +1,17 @@
+@import "../../../Fonts/fonts";
+
+//Color Palette
+$zappar-background: #000;
+$zappar-primary-color: #fff; //Typography, border, component backgrounds
+$zappar-primary-color-dark: #b3b3b3;  
+$zappar-primary-color-light: #fff;
+$zappar-secondary-color: #5deee9; //Buttons, hovering text, illustrations, logo
+$zappar-secondary-color-dark: #41a7a3;
+$zappar-secondary-color-light: #9ef5f2;
+$zappar-tertiary-color: #7a279b; //Buttons, hovering text, illustrations, logo
+$zappar-tertiary-color-dark: #551b6d; 
+$zappar-tertiary-color-light: #a268b9;
+
+//Font-family
+$zappar-primary-font-family: 'Roboto', Helvetica, sans-serif; //For body content
+$zappar-secondary-font-family: 'Roboto', Helvetica, sans-serif; //For main headings and modals
